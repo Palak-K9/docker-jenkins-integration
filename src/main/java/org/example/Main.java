@@ -10,7 +10,10 @@ public class Main {
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
-
+            System.out.println("start");
+            System.out.println("stop");
+            System.out.println("start1");
+            System.out.println("stop1");
             // Press Shift+F9 to start debugging your code. We have set one breakpoint
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
